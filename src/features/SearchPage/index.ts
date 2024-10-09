@@ -1,0 +1,1 @@
+export {SearchPageCard} from './components/SearchPageCard'
